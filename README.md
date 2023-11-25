@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Dheemanth M D" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Dheemanth M D" src="header.png" /></a></p>
 
 <br />
 
@@ -25,8 +25,8 @@ I am Software Engineer from India 🇮🇳
 
 - 💼 Senior Software Engineer , **SDE2** at **[Cimpress](http://cimpress.com/)**
 
-- 📁 I write code in **typescript , javascript and c++.
-**
+- 📁 I write code in **typescript** , **javascript** and **c++**.
+
 - 💻 Projects based on **React and Node.**
 
 - 📪 Write to me : **dheemanthmd12@gmail.com**
