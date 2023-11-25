@@ -23,13 +23,13 @@ I am Software Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 Senior Software Engineer SDE2 at [Cimpress](http://cimpress.com/)
+- 💼 Senior Software Engineer , **SDE2** at **[Cimpress](http://cimpress.com/)**
 
-- 📁 I write code in typescript , javascript and c++.
+- 📁 I write code in **typescript , javascript and c++.
+**
+- 💻 Projects based on **React and Node.**
 
-- 💻 Projects based on React and Node.
-
-- 📪 Write to me : dheemanthmd12@gmail.com
+- 📪 Write to me : **dheemanthmd12@gmail.com**
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
