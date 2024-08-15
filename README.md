@@ -27,7 +27,7 @@ I am Software Engineer from India 🇮🇳
 
 - 📁 I write code in **typescript** , **javascript** and **c++**.
 
-- 💻 Projects based on **React and Node.**
+- 💻 Projects based on **React and JAVA.**
 
 - 📪 Write to me : **[dheemanthmd12@gmail.com](mailto:dheemanthmd12@gmail.com)**
 
