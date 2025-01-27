@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://dheemanth-gowda.github.io"><img width="80%" alt="Hello, I'm Dheemanth M D" src="header.png" /></a></p>
+<p align="center"><a href="https://dheemanthmd.com/reliability-in-system-design-the-backbone-of-trust"><img width="80%" alt="Hello, I'm Dheemanth M D" src="header.png" /></a></p>
 
 <br />
 
-I am Software Engineer from India 🇮🇳
+I am a Software Engineer from India 🇮🇳
 
 **About me**
 
